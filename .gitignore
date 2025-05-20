@@ -1,0 +1,26 @@
+# Build outputs
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+*.o
+
+# Visual Studio folders and user-specific files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# Temporary and backup files
+*.log
+*.tmp
+*.bak
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
