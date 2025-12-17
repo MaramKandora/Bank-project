@@ -24,7 +24,6 @@ This project was built as part of my learning journey to strengthen understandin
 * Delete client
 * Find client by account number
 
-
 ### Transactions
 
 * Deposit
@@ -78,7 +77,7 @@ This project was built as part of my learning journey to strengthen understandin
 ![Transactions Menu](screenshots/transactionmenu.png)
 
 ### User Management Menu
-![Transactions Menu](screenshots/usermanagement.png)
+![User Management Menu](screenshots/usersmanagement.png)
 
 ### Currency Exchange Menu
-![Transactions Menu](screenshots/currencyexchangemenu.png)
+![Currency Exchange Menu](screenshots/currencyexchangemenu.png)
